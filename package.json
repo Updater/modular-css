@@ -44,7 +44,7 @@
     "rollup-plugin-svelte": "^5.0.1",
     "shelljs": "^0.8.3",
     "sugarss": "^2.0.0",
-    "svelte": "^2.16.1",
+    "svelte": "^3.49.0",
     "watchify": "3.11.0",
     "webpack": "^4.29.4"
   },
